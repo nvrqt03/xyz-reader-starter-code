@@ -20,6 +20,13 @@
 
     <color name="theme_primary">#04561A</color>
     <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
+    <color name="theme_accent">#2019f8</color>
     <color name="ltgray">#ffe0e0e0</color>
+
+
+    <color name="primaryDark">#464646</color>
+    <color name="secondaryDark">#7e7e7e</color>
+    <color name="primaryLight">#c1c1c1</color>
+    <color name="primaryAccent">#2019f8</color>
+
 </resources>
